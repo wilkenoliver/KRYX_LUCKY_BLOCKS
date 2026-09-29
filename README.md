@@ -2,7 +2,7 @@
 
 Script para Roblox com interface em **Rayfield**, que permite spawnar todos os tipos de blocos e usar ferramentas de jogador. Esta versão traz uma interface reorganizada, em português, com sliders, notificações e uma aba de configurações.
 
-> Script original por **Kryx** (open source). Interface melhorada e adaptada por **Eduardo**.
+> Script original por **Kryx** (open source). Interface melhorada e adaptada por **FAL**.
 
 ---
 
@@ -101,4 +101,4 @@ Distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais deta
 
 ---
 
-<p align="center">Feito pelo Eduardo 💚</p>
+<p align="center">Feito pelo FAL 💚</p>
